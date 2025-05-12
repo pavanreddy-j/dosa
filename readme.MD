@@ -2,4 +2,4 @@
 
 ## Plain Dosa
 * Dosa Batter
-* Light Oil
+* Light sunflower oil
