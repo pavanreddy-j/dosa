@@ -3,3 +3,6 @@
 ## Plain Dosa
 * Dosa Batter
 * Light sunflower oil
+
+## Karam Dosa
+* Dosa Batter
