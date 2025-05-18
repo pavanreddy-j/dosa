@@ -14,3 +14,8 @@
 
 ## Panner dosa
 * Dosa Batter
+* Oil
+* Panner
+* kaju paste
+* Panner
+* Mysore masala
