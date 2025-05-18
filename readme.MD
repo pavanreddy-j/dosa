@@ -19,3 +19,4 @@
 * kaju paste
 * Panner
 * Mysore masala
+* capcicum
